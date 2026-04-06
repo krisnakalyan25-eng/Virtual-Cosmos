@@ -41,7 +41,7 @@ cd project
 ```
 cd server
 npm install
-npm start
+node index.js
 ```
 
 ### 3. Frontend setup
@@ -75,6 +75,6 @@ npm run dev
 
 ## 📹 Demo Video
 
-(Add your video link here)
-
+DEMO video Link :-
+https://drive.google.com/file/d/17Zqt6BpGikWfPjmtdBmwlTZ1_IgFfIIT/view?usp=drivesdk
 ---
